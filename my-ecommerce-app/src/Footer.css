@@ -1,0 +1,85 @@
+/* Footer.css */
+
+/* Font styles */
+body {
+    font-family: 'Lato', sans-serif;
+    color: #757575; /* Set default text color */
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  /* Footer styles */
+  footer {
+    border-top: 1px solid #ddd;
+    background-color: #f8f9fa;
+    color: #757575;
+    padding-bottom: 40px; 
+  }
+  
+  footer .navbar {
+    padding: 15px 0;
+    background-color: #FFFFFF; /* Ensure background color is applied to Navbar */
+  }
+  
+  footer .navbar-brand img {
+    margin-top: -5px;
+  }
+  
+  footer .nav-link {
+    color: #757575;
+  }
+  
+  footer .nav-link:hover {
+    color: #4CAF50;
+  }
+  
+  footer p {
+    margin: 20px 0;
+    font-size: 14px;
+  }
+  
+  /* Back to Top button */
+  footer .back-to-top-btn {
+    margin-top: -30px; /* Adjust margin to align with the footer content */
+  }
+  
+  footer .back-to-top-btn:hover {
+    border-color: white; 
+    color: white; 
+    background-color: #4CAF50;
+  }
+
+  /* Social icons */
+footer .social-icons {
+    display: flex;
+    gap: 15px; /* Adjust the gap between icons */
+  }
+  
+  /* Social icon color and hover effect */
+  footer .social-icons a {
+    color: #757575;
+  }
+  
+  footer .social-icons a:hover {
+    color: #4CAF50;
+  }
+  
+  /* Map and Get in touch layout */
+  footer .get-in-touch {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+  }
+  
+  footer .map {
+    margin-top: 20px; 
+  }
+
+  footer .social-icons-left {
+    display: flex;
+    gap: 15px;
+    align-items: flex-start; /* Set the alignment to flex-start */
+    margin-bottom: 10px;
+  }

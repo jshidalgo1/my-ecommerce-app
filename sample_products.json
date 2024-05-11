@@ -1,0 +1,455 @@
+[{
+  "_id": {
+    "$oid": "6572d430d60f077bf58530e5"
+  },
+  "id": "scxjMCKUo1b3kEjGMYne1V",
+  "name": "White Corn",
+  "type": "Crop",
+  "price": 96.72,
+  "description": "1kg",
+  "quantity": 50,
+  "imageUrl": "https://drive.google.com/uc?export=view&id=1JRJQULvHEap7xrm1TlAuBJ3B-c0pgQBu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d43cd60f077bf58530e8"
+  },
+  "id": "pgyfc9MMtPmhXKCwS6CYam",
+  "name": "Yellow Corn",
+  "type": "Crop",
+  "price": 62.6,
+  "description": "1kg",
+  "quantity": 50,
+  "imageUrl": "https://drive.google.com/uc?export=view&id=1t_XHfX3_vX21FeeZac7twDmi22VKo1hi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d449d60f077bf58530eb"
+  },
+  "id": "oivBMvqvhrz5NSZdktRXq6",
+  "name": "Whole Chicken",
+  "type": "Poultry",
+  "price": 181.23,
+  "description": "Full dressed (kg)",
+  "quantity": 30,
+  "imageUrl": "https://drive.google.com/uc?export=view&id=1m1SuhNEAXkHFY_K_5xTvT_x-g5OusS-E",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d454d60f077bf58530ee"
+  },
+  "id": "246Q7C8z2xW3Xq34KoRaxD",
+  "name": "Chicken egg",
+  "type": "Poultry",
+  "price": 8.18,
+  "description": "medium size / pc, white",
+  "quantity": 200,
+  "imageUrl": "https://drive.google.com/uc?export=view&id=1Pouk4odajpy-9_AiWpQnLtwP9s2o2SB2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d4a9d60f077bf58530f1"
+  },
+  "id": "q8eViuDBXXfXwwybmXC4L7",
+  "name": "Local Special Rice",
+  "type": "Crop",
+  "price": 60.4,
+  "description": "Blue tag per kg",
+  "quantity": 30,
+  "imageUrl": "https://drive.google.com/uc?export=view&id=1L3OadwtQ3HIxz3dv2k3IqR2J5loZDKkz",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d4b4d60f077bf58530f4"
+  },
+  "id": "fmt56mAfCshqvURBJ3ii6e",
+  "name": "Suki Choice Local Premium Rice",
+  "type": "Crop",
+  "price": 54.18,
+  "description": "Yellow tag per kg",
+  "quantity": 30,
+  "imageUrl": "https://drive.google.com/uc?export=view&id=1fBbT0cDx9DhhJQHhJTagmRxr1sq3oj2m",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d4c6d60f077bf58530f7"
+  },
+  "id": "hokAhfTdBKSSWpK7MowwZK",
+  "name": "Jasmine Local Well-Milled Rice",
+  "type": "Crop",
+  "price": 49.3,
+  "description": "White tag per kg",
+  "quantity": 29,
+  "imageUrl": "https://drive.google.com/uc?id=1T3r030BXw7dAsWs1g4_ofwvV9wuuKRse",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d4d6d60f077bf58530fa"
+  },
+  "id": "dJa9D6XXHZBczooL1bdc2X",
+  "name": "Local regular-milled Rice",
+  "type": "Crop",
+  "price": 45.35,
+  "description": "White tag per kg",
+  "quantity": 30,
+  "imageUrl": "https://drive.google.com/uc?id=1439SCL2gWowGgi9HTxDQEWYTy35SeZFp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d4e0d60f077bf58530fd"
+  },
+  "id": "vfF3CDSVyZkyb9WL6teFrs",
+  "name": "Ampalaya",
+  "type": "Crop",
+  "price": 91.63,
+  "description": "4-5pcs / kg",
+  "quantity": 49,
+  "imageUrl": "https://drive.google.com/uc?id=1rHRweU4U8R16tX7ZlnpBpq4XnW9YvANm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d4fbd60f077bf5853100"
+  },
+  "id": "v6Mp9eTbxjW2TQmN8YnuCe",
+  "name": "Sitaw",
+  "type": "Crop",
+  "price": 92.1,
+  "description": "3-4 small bundles per kg",
+  "quantity": 50,
+  "imageUrl": "https://drive.google.com/uc?id=1taXoYj1BqCI5eKviT7bgZZmCQiB8pshc",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d504d60f077bf5853103"
+  },
+  "id": "gLGYPvtD3rhWTanpdTAjor",
+  "name": "Pechay",
+  "type": "Crop",
+  "price": 66.78,
+  "description": "3-4 small bundles per kg",
+  "quantity": 20,
+  "imageUrl": "https://drive.google.com/uc?id=1UWavWb0kXPArj4EHh2TWM42UDMWNZH51",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d517d60f077bf5853106"
+  },
+  "id": "rRAwx68btiWERHRjdmCWhT",
+  "name": "Squash",
+  "type": "Crop",
+  "price": 58.63,
+  "description": "1kg",
+  "quantity": 30,
+  "imageUrl": "https://drive.google.com/uc?id=1XxoFsUmKX6zQihDklBCD7v65vLeBzzKu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d526d60f077bf5853109"
+  },
+  "id": "66DyYTroCLHQRbpsQmyMdf",
+  "name": "Eggplant",
+  "type": "Crop",
+  "price": 115.07,
+  "description": "3-4 small bundles per kg",
+  "quantity": 30,
+  "imageUrl": "https://drive.google.com/uc?id=1anfZSUDJQ4KgCtpbZg_IkRoiRU-ZG_Oz",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d536d60f077bf585310c"
+  },
+  "id": "1uV1t9ACytGqRav6y1p6zH",
+  "name": "Tomato",
+  "type": "Crop",
+  "price": 83.03,
+  "description": "15-18 pcs/kg",
+  "quantity": 100,
+  "imageUrl": "https://drive.google.com/uc?id=1qLdnODHg-4-MiuG6h4PE6LWioySGYWru",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d53ed60f077bf585310f"
+  },
+  "id": "bGcR54nmLzya5AXFGBv2Gx",
+  "name": "Cabbage",
+  "type": "Crop",
+  "price": 78.59,
+  "description": "750 gm - 1 kg / head",
+  "quantity": 20,
+  "imageUrl": "https://drive.google.com/uc?id=1HApIExAmudv4xD68sXLmGFCTX9Pn1b7f",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d54ad60f077bf5853112"
+  },
+  "id": "8USpw1gmaruhdTZ7aVS182",
+  "name": "Carrots",
+  "type": "Crop",
+  "price": 127.58,
+  "description": "8-10 pcs per kg",
+  "quantity": 30,
+  "imageUrl": "https://drive.google.com/uc?id=1y6C4Ko7pHXNwhOs8oCmGpxg3fNfd1NB7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d553d60f077bf5853115"
+  },
+  "id": "32UEVWkCzvnyMtTTWN1X2o",
+  "name": "Baguio Beans",
+  "type": "Crop",
+  "price": 116.33,
+  "description": "0.5 kg ",
+  "quantity": 30,
+  "imageUrl": "https://drive.google.com/uc?id=1TI2un8ZfVehMcb7ql-qZ3QgA88hVmUe5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d55ed60f077bf5853118"
+  },
+  "id": "rMA1wRU7TnoXHE8dsKmnnV",
+  "name": "White potato",
+  "type": "Crop",
+  "price": 135.74,
+  "description": "10-12 pcs per kg",
+  "quantity": 40,
+  "imageUrl": "https://drive.google.com/uc?id=14OHAVnDtNOyJ50iivsx92lFRmkdUp-A7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d569d60f077bf585311b"
+  },
+  "id": "gfb5xs6TscSXDh2W3jntbT",
+  "name": "Chayote",
+  "type": "Crop",
+  "price": 42.3,
+  "description": "0.5 kg",
+  "quantity": 15,
+  "imageUrl": "https://drive.google.com/uc?id=11G9HFmb7WSE_7K8ArlZpXmt4xcX8npW7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d577d60f077bf585311e"
+  },
+  "id": "657Ery2wJnidJP5xwQ1xcw",
+  "name": "Red Onion",
+  "type": "Crop",
+  "price": 176.72,
+  "description": "13-15 pcs/kg",
+  "quantity": 50,
+  "imageUrl": "https://drive.google.com/uc?id=16jEwuSxkQeWDmQF5lHbI8KRL4ZWgPMQ_",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d580d60f077bf5853121"
+  },
+  "id": "75JDeWA5dqFYAXFp2Hxqg8",
+  "name": "White Onion",
+  "type": "Crop",
+  "price": 133.88,
+  "description": "13-15 pcs/kg",
+  "quantity": 50,
+  "imageUrl": "https://drive.google.com/uc?id=18QuWk2ybY6NN12Ya09heOsSy8ueMCopP",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d58bd60f077bf5853124"
+  },
+  "id": "mn8wqfGp3TarLcBV9hLssC",
+  "name": "Garlic",
+  "type": "Crop",
+  "price": 327.86,
+  "description": "1kg ",
+  "quantity": 50,
+  "imageUrl": "https://drive.google.com/uc?id=1QJ3AgM31CWHr1ZrhuOLs50ogY6CYR0iz",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d593d60f077bf5853127"
+  },
+  "id": "qBZq23WQaBrFUk28Xvn2QQ",
+  "name": "Ginger",
+  "type": "Crop",
+  "price": 166.55,
+  "description": "1kg",
+  "quantity": 50,
+  "imageUrl": "https://drive.google.com/uc?id=1MTdbvXJU9Vp5p4HcB7H2JUat_HFefXul",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d59cd60f077bf585312a"
+  },
+  "id": "oh65orQXKnisfs9wJmoaZz",
+  "name": "Chile (Labuyo)",
+  "type": "Crop",
+  "price": 229.36,
+  "description": "1kg",
+  "quantity": 40,
+  "imageUrl": "https://drive.google.com/uc?id=1QoLmCdSbJ8p_TjAnIPSkYdxloJKUC7zt",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d5a3d60f077bf585312d"
+  },
+  "id": "6H5jhsMARRmSorV4KySJCx",
+  "name": "Calamansi",
+  "type": "Crop",
+  "price": 90.77,
+  "description": "1kg",
+  "quantity": 50,
+  "imageUrl": "https://drive.google.com/uc?id=11lQmRM6SHdtOq61_A0VdQfybCdtWzjLT",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d5acd60f077bf5853130"
+  },
+  "id": "e63beWwgsLK3g4JghRiELG",
+  "name": "Banana (Lakatan)",
+  "type": "Crop",
+  "price": 97.34,
+  "description": "8-10 pcs per kg",
+  "quantity": 20,
+  "imageUrl": "https://drive.google.com/uc?id=1IcpN2XIC2q3OoJpt2iKFPA45ANfrCuNN",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d5b9d60f077bf5853133"
+  },
+  "id": "shbw24zS6hxWvN1j8moJdf",
+  "name": "Banana (Latundan)",
+  "type": "Crop",
+  "price": 67.03,
+  "description": "10-12pcs per kg",
+  "quantity": 20,
+  "imageUrl": "https://drive.google.com/uc?id=1q36JGqyRZPLWhh7hyJkLOaAXofzZjLsB",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d5c4d60f077bf5853136"
+  },
+  "id": "9dvJYtumdRRN8eT3obaZ5W",
+  "name": "Papaya",
+  "type": "Crop",
+  "price": 64.46,
+  "description": "3-4 pcs per kg",
+  "quantity": 30,
+  "imageUrl": "https://drive.google.com/uc?id=1U1N2_4i8ezYfsZqdnLxO1dkeGctSF6Ly",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d5ccd60f077bf5853139"
+  },
+  "id": "i8BGwY9W4reCL3ngRnzUcn",
+  "name": "Mango (carabao)",
+  "type": "Crop",
+  "price": 202.85,
+  "description": "3-4pcs per kg",
+  "quantity": 50,
+  "imageUrl": "https://drive.google.com/uc?id=1clqPqKGSkZPoEkU-yt-cWFGtuGU4oHi9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d5dbd60f077bf585313c"
+  },
+  "id": "eJ8mK4iofXfpETs8g3Prx5",
+  "name": "Chicken breast",
+  "type": "Poultry",
+  "price": 220.45,
+  "description": "4-5 pcs per 1 kg",
+  "quantity": 10,
+  "imageUrl": "https://drive.google.com/uc?id=1uJR-hIDIfvkEA2ti-AHeky_A-Q9dt61N",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d5ebd60f077bf585313f"
+  },
+  "id": "vXChK6FddmLv3vugNDisFs",
+  "name": "Chicken Thighs/Legs",
+  "type": "Poultry",
+  "price": 170.32,
+  "description": "4-7 pcs per 1 kg",
+  "quantity": 10,
+  "imageUrl": "https://drive.google.com/uc?id=1wqhMbMxTjmF8TJZbcWcNiBqbECd8m4vb",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d5f5d60f077bf5853142"
+  },
+  "id": "ngvFeaNPp5zG18vLov4DFz",
+  "name": "Chicken Wings",
+  "type": "Poultry",
+  "price": 225.3,
+  "description": "8-12 pcs per 1 kg",
+  "quantity": 10,
+  "imageUrl": "https://drive.google.com/uc?id=14N8a7gIEhakgYOaUSzZPLm6yWp3oV2wK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d601d60f077bf5853145"
+  },
+  "id": "bj8r8pGELvehQ4rjGjCxTT",
+  "name": "Whole Duck",
+  "type": "Poultry",
+  "price": 210.5,
+  "description": "1 kg",
+  "quantity": 10,
+  "imageUrl": "https://drive.google.com/uc?id=19RzwvhKWRBPqn8fjzJsIvR2G9BBcCKoa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d60dd60f077bf5853148"
+  },
+  "id": "2C1zMo15fy9pzGk2i7KBb7",
+  "name": "Duck Breast",
+  "type": "Poultry",
+  "price": 245.66,
+  "description": "4-6 pcs per kg",
+  "quantity": 10,
+  "imageUrl": "https://drive.google.com/uc?id=128KE6-MVuf10FxOdNSrCp4hU5uxq-i0z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6572d615d60f077bf585314b"
+  },
+  "id": "iGdNnJNE92DEJH7TyZMz5W",
+  "name": "Quial Eggs",
+  "type": "Poultry",
+  "price": 30.45,
+  "description": "1kg per pack",
+  "quantity": 10,
+  "imageUrl": "https://drive.google.com/uc?id=1XiWKss61FlR5p38jlNrAKzkik9DGmBMv",
+  "__v": 0
+}]

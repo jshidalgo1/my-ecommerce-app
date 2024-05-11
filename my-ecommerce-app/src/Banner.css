@@ -1,0 +1,35 @@
+/* Banner.css */
+.banner {
+    margin-top: 20px;
+  }
+  
+  /* Customize Carousel styling */
+  .carousel {
+    border-radius: 8px;
+  }
+  
+  .carousel-caption {
+    background-color: rgba(77, 77, 77, 0.7);
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .carousel-caption h3 {
+    color: #ffc107;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .carousel-caption p {
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+  }
+.banner {
+    max-height: 300px; 
+    overflow: hidden; /* This ensures that images won't exceed the specified height */
+  }
+  
+  .banner img {
+    width: 100%;
+    height: auto;
+  }
+  
